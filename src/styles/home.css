@@ -1,0 +1,35 @@
+
+.libros-div{
+    overflow: auto;
+    height: 800px;
+}
+
+.img-libro{
+    width: 90px;
+    height: 90px;
+}
+
+.div-libro{
+    height: 350px;
+}
+
+.title-book{
+    word-wrap: break-word;
+}
+
+.eliminar-libro{
+    cursor: pointer;
+}
+
+.editar-libro{
+    cursor: pointer;
+}
+
+.modal-edit-book{
+    background-color: black; 
+}
+
+.modal-book{
+    overflow: auto;
+    height: 800px;
+}
